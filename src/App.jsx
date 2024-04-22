@@ -1,4 +1,4 @@
-import { Environment, MeshPortalMaterial, OrbitControls, RoundedBox, Sky, useTexture } from "@react-three/drei"
+import { Environment, MeshPortalMaterial, OrbitControls, RoundedBox, Sky, Text, useTexture } from "@react-three/drei"
 import { Canvas } from "@react-three/fiber"
 import * as THREE from 'three'
 import { Model } from "./model"
